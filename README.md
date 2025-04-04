@@ -1,3 +1,3 @@
-## Test repo 123 - edited
+## Test repo 123
 
 ### Add README file content here
