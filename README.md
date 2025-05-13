@@ -1,3 +1,3 @@
-## Test repo 123 - edited from GH CLI
+## Test repo
 
 ### Add README file content here
